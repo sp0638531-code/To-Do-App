@@ -129,6 +129,18 @@ ul li.checked{
 .delete{
     background:#ef4444;
 }
+.complete{
+    background:#22c55e;
+}
+
+.complete:hover{
+    background:#16a34a;
+}
+
+.checked span{
+    text-decoration:line-through;
+    color:#9ca3af;
+}
 
 @media(max-width:600px){
 
